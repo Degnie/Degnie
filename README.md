@@ -5,7 +5,8 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGFlMXp0c2lwbDQ4c25hd2F0aTUwNHdnd2NkbjNqdWNkdGh3YXl6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SeGogDqidtnZS/giphy.gif" width="70px">&nbsp;***About me***
 
 I'm a Computer Science student at the National University of San Marcos (UNMSM), currently in the 
-middle of my degree.  I’m expanding my knowledge in back-end development and cybersecurity, and I’m passionate about learning and building innovative solutions that make a real impact.
+middle of my degree.  I’m expanding my knowledge in back-end development and cybersecurity, and I’m passionate about learning and building 
+innovative solutions that make a real impact.
 
 - 🌱 I’m currently learning ...
   - Database design
